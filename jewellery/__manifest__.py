@@ -22,6 +22,7 @@
         'security/ir.model.access.csv',
 
     ],
+    'images': ['static/description/banner.jpg'],
     'installable': True,
     'application': True,
 }
