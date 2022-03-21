@@ -10,7 +10,8 @@
     'author': 'Noipunno Info-tech',
     'maintainer': 'Noipunno Info-tech',
     'summary': ' ',
-    'website': 'noipunnoinfotech@gmai.com',
+    'gmail': 'noipunnoinfotech@gmai.com',
+    'contacts': 'noipunnoinfotech@gmai.com',
     'depends': [
         'base',
         'mail',
@@ -23,6 +24,7 @@
 
     ],
     'images': ['static/description/banner.jpg'],
+    'license': 'AGPL-3',
     'installable': True,
     'application': True,
 }
